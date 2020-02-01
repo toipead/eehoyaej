@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ehochauqu.alexanderfilatov.se/sitemap.xml
